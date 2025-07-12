@@ -27,16 +27,9 @@ Edit
 }
 Prompt template during training:
 
-shell
-Copy
-Edit
-### Instruction:
-{instruction}
-### Input:
-{input}
-### Response:
-{output}
+
 ⚙️ Fine-tuning Overview
+
 Libraries used:
 
 transformers
