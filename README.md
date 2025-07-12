@@ -1,4 +1,4 @@
-Fine-tuning LLaMA 2 7B on Agricultural Data
+Fine-tuning LLaMA 2 7B on Agricultural Data you can see the code https://colab.research.google.com/drive/1GVu2Rabukg6Uvm6VIqZPmGJN0ok5B6ed?usp=sharing
 🎯 Objective
 Fine-tune the LLaMA 2 7B language model to understand and respond to agricultural instructions and questions, using a dataset specifically curated for farming and agricultural tasks.
 
